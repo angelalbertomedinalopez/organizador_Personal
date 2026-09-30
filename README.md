@@ -19,3 +19,6 @@ python src/main.py
 * Dependencias: request, dotenv
 • Dependencias:
 • Autor:
+## Estado
+
+Proyecto en desarrollo.
