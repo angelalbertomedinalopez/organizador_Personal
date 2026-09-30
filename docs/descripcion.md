@@ -1,0 +1,1 @@
+El Organizador Personal es una aplicación diseñada para facilitar la gestión de actividades cotidianas. Su objetivo principal es ofrecer al usuario una herramienta práctica y sencilla para mantener el control de sus tareas y notas en un solo lugar
