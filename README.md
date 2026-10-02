@@ -22,3 +22,5 @@ python src/main.py
 ## Estado
 
 Proyecto en desarrollo.
+
+Aportacion de Axel
